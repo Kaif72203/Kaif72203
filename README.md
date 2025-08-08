@@ -76,7 +76,7 @@ Tech Stack: `JavaScript`, `HTML`, `CSS`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaif72203&show_icons=true&theme=radical" alt="Kaif's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaif72203&theme=radical" alt="Kaif's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaif72203&theme=radical" alt="Kaif's GitHub Streak" />
 </p>
 
 ---
